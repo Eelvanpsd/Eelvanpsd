@@ -16,14 +16,13 @@ Fullstack web3 developer and designer. I take projects end to end, from smart co
 Mostly working on Avalanche (C-Chain and Subnets), also building on Ethereum and other EVM chains.
 Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
 
-```yaml
-name:        Eelvan
-role:        Fullstack web3 developer & designer
-chains:      Avalanche (C-Chain, Subnets), Ethereum, EVM L2s
-stack:       TypeScript, Next.js, Solidity, Hardhat, Foundry, ethers/viem, wagmi
-design:      Photoshop, Illustrator, After Effects, Premiere, XD, Figma
-currently:   avalancheteam1, gUUdscore, goatsino, pangolin
-```
+| | |
+|---|---|
+| **Role** | Fullstack web3 developer & designer |
+| **Chains** | Avalanche (C-Chain, Subnets), Ethereum, EVM L2s |
+| **Stack** | TypeScript, Next.js, Solidity, Hardhat, Foundry, ethers/viem, wagmi |
+| **Design** | Photoshop, Illustrator, After Effects, Premiere, XD, Figma |
+| **Currently** | avalancheteam1, gUUdscore, goatsino, pangolin |
 
 ---
 
