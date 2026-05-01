@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Eelvan;Fullstack+Web3+Developer+%26+Designer;Avalanche+%E2%80%A2+Ethereum+%E2%80%A2+EVM+chains;Code+by+day%2C+pixels+by+night" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Eelvan;Fullstack+Web3+Developer+%26+Designer;Avalanche+%2F+Ethereum+%2F+EVM" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,18 +12,17 @@
 
 ### About me
 
-I'm a **fullstack web3 developer & designer** — I ship end-to-end products: from smart contracts to pixel-perfect UI.
-On-chain I live on **Avalanche**, **Ethereum** and other **EVM** chains; off-chain I prototype with **Next.js / TypeScript**
-and design every screen myself in the **Adobe** suite & Figma. I love the part where engineering and craft meet.
+Fullstack web3 developer ve designer'ım. Smart contract'tan UI'a kadar projeyi tek başıma çıkarıyorum.
+Çoğunlukla Avalanche'ta (C-Chain ve Subnet) çalışıyorum, Ethereum ve diğer EVM zincirlerinde de iş yapıyorum.
+Frontend tarafı Next.js + TypeScript, tasarım tarafı Adobe suite ve Figma.
 
 ```yaml
 name:        Eelvan
 role:        Fullstack web3 developer & designer
-chains:      Avalanche (C-Chain · Subnets) · Ethereum · EVM L2s
-stack:       TypeScript · Next.js · Solidity · Hardhat · Foundry · ethers/viem · wagmi
-design:      Photoshop · Illustrator · After Effects · Premiere · XD · Figma
-currently:   pizza-game · gUUdscore · goatsino-fuji
-mantra:      "ship the product, then ship the polish"
+chains:      Avalanche (C-Chain, Subnets), Ethereum, EVM L2s
+stack:       TypeScript, Next.js, Solidity, Hardhat, Foundry, ethers/viem, wagmi
+design:      Photoshop, Illustrator, After Effects, Premiere, XD, Figma
+currently:   pizza-game, gUUdscore, goatsino-fuji
 ```
 
 ---
@@ -102,4 +101,3 @@ mantra:      "ship the product, then ship the polish"
   <a href="https://github.com/Eelvanpsd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
