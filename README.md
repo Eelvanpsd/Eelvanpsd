@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Eelvan;Builder+%E2%80%A2+Hacker+%E2%80%A2+Web3+Tinkerer;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Eelvan;Fullstack+Web3+Developer+%26+Designer;Avalanche+%E2%80%A2+Ethereum+%E2%80%A2+EVM+chains;Code+by+day%2C+pixels+by+night" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,13 +12,18 @@
 
 ### About me
 
+I'm a **fullstack web3 developer & designer** — I ship end-to-end products: from smart contracts to pixel-perfect UI.
+On-chain I live on **Avalanche**, **Ethereum** and other **EVM** chains; off-chain I prototype with **Next.js / TypeScript**
+and design every screen myself in the **Adobe** suite & Figma. I love the part where engineering and craft meet.
+
 ```yaml
 name:        Eelvan
-role:        Full-stack developer & web3 builder
-focus:       building products that ship, breaking things on purpose
-stack:       TypeScript · Next.js · Solidity · Python · Bash
+role:        Fullstack web3 developer & designer
+chains:      Avalanche (C-Chain · Subnets) · Ethereum · EVM L2s
+stack:       TypeScript · Next.js · Solidity · Hardhat · Foundry · ethers/viem · wagmi
+design:      Photoshop · Illustrator · After Effects · Premiere · XD · Figma
 currently:   pizza-game · gUUdscore · goatsino-fuji
-learning:    smart-contract security · LLM agent orchestration
+mantra:      "ship the product, then ship the polish"
 ```
 
 ---
@@ -48,8 +53,36 @@ learning:    smart-contract security · LLM agent orchestration
 
 ### Toolbox
 
+**Frontend & Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,solidity,bash,tailwind,postgres,docker,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,python,bash,postgres,docker,git,linux,vscode" />
+</p>
+
+**Web3 & Chains**
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" height="48" />
+  <img src="https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=040" alt="Avalanche" height="48" />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040" alt="Ethereum" height="48" />
+  <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg?v=040" alt="Polygon" height="48" />
+  <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.svg?v=040" alt="Arbitrum" height="48" />
+  <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.svg?v=040" alt="Optimism" height="48" />
+  <img src="https://cryptologos.cc/logos/bnb-bnb-logo.svg?v=040" alt="BNB Chain" height="48" />
+  <img src="https://cryptologos.cc/logos/base-logo.svg?v=040" alt="Base" height="48" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/Foundry-2A2F2A?style=for-the-badge&logo=foundry&logoColor=white" />
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/viem-FFC517?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/wagmi-1F1F1F?style=for-the-badge&logo=walletconnect&logoColor=white" />
+  <img src="https://img.shields.io/badge/RainbowKit-032463?style=for-the-badge&logo=rainbow&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+</p>
+
+**Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,xd,figma,blender" />
 </p>
 
 ---
