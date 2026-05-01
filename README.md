@@ -16,13 +16,61 @@ Fullstack web3 developer and designer. I take projects end to end, from smart co
 Mostly working on Avalanche (C-Chain and Subnets), also building on Ethereum and other EVM chains.
 Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
 
-| | |
-|---|---|
-| **Role** | Fullstack web3 developer & designer |
-| **Chains** | Avalanche (C-Chain, Subnets), Ethereum, EVM L2s |
-| **Stack** | TypeScript, Next.js, Solidity, Hardhat, Foundry, ethers/viem, wagmi |
-| **Design** | Photoshop, Illustrator, After Effects, Premiere, XD, Figma |
-| **Currently** | avalancheteam1, gUUdscore, goatsino, pangolin |
+<table>
+  <tr>
+    <td valign="top" width="140">🧩&nbsp;&nbsp;<b>Role</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Fullstack-F97316?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Web3_Developer-F97316?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Designer-EAB308?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">⛓️&nbsp;&nbsp;<b>Chains</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Avalanche-E84142?style=flat-square&logo=avalanche&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+      <img src="https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arbitrum-2D374B?style=flat-square&logo=arbitrum&logoColor=white" />
+      <img src="https://img.shields.io/badge/Optimism-FF0420?style=flat-square&logo=optimism&logoColor=white" />
+      <img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/BNB_Chain-F0B90B?style=flat-square&logo=binance&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">🛠️&nbsp;&nbsp;<b>Stack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/Foundry-2A2F2A?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/viem-FFC517?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/wagmi-1F1F1F?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">🎨&nbsp;&nbsp;<b>Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+      <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=black" />
+      <img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=adobepremierepro&logoColor=black" />
+      <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">🚀&nbsp;&nbsp;<b>Currently</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/avalancheteam1-E84142?style=flat-square&logo=avalanche&logoColor=white" />
+      <img src="https://img.shields.io/badge/gUUdscore-F97316?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/goatsino-F97316?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/pangolin-F97316?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
