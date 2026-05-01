@@ -12,9 +12,9 @@
 
 ### About me
 
-Fullstack web3 developer ve designer'ım. Smart contract'tan UI'a kadar projeyi tek başıma çıkarıyorum.
-Çoğunlukla Avalanche'ta (C-Chain ve Subnet) çalışıyorum, Ethereum ve diğer EVM zincirlerinde de iş yapıyorum.
-Frontend tarafı Next.js + TypeScript, tasarım tarafı Adobe suite ve Figma.
+Fullstack web3 developer and designer. I take projects end to end, from smart contracts to UI.
+Mostly working on Avalanche (C-Chain and Subnets), also building on Ethereum and other EVM chains.
+Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
 
 ```yaml
 name:        Eelvan
