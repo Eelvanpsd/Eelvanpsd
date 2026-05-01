@@ -22,7 +22,7 @@ role:        Fullstack web3 developer & designer
 chains:      Avalanche (C-Chain, Subnets), Ethereum, EVM L2s
 stack:       TypeScript, Next.js, Solidity, Hardhat, Foundry, ethers/viem, wagmi
 design:      Photoshop, Illustrator, After Effects, Premiere, XD, Figma
-currently:   pizza-game, gUUdscore, goatsino-fuji
+currently:   avalancheteam1, gUUdscore, goatsino, pangolin
 ```
 
 ---
