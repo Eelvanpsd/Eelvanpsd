@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Eelvan;Fullstack+Web3+Developer+%26+Designer;Avalanche+%2F+Ethereum+%2F+EVM" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/Eelvanpsd"><img src="https://komarev.com/ghpvc/?username=Eelvanpsd&label=Profile%20views&color=f97316&style=flat-square" alt="profile views" /></a>
-  <img src="https://img.shields.io/github/followers/Eelvanpsd?label=Followers&style=flat-square&color=f97316" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Eelvanpsd?label=Stars&style=flat-square&color=f97316" alt="stars" />
-</p>
-
 ---
 
 ### About me
@@ -89,10 +83,6 @@ Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Eelvanpsd&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eelvanpsd&theme=tokyo-night&hide_border=true&line=F97316&point=F97316&area=true" alt="activity graph" width="100%" />
 </p>
 
 ---
