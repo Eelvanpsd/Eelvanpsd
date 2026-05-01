@@ -113,7 +113,7 @@ Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
   <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.svg?v=040" alt="Arbitrum" height="48" />
   <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.svg?v=040" alt="Optimism" height="48" />
   <img src="https://cryptologos.cc/logos/bnb-bnb-logo.svg?v=040" alt="BNB Chain" height="48" />
-  <img src="https://cryptologos.cc/logos/base-logo.svg?v=040" alt="Base" height="48" />
+  <img src="https://avatars.githubusercontent.com/u/108554348?s=120" alt="Base" height="48" style="border-radius:50%" />
 </p>
 
 <p>
