@@ -18,7 +18,7 @@ Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
 
 <table>
   <tr>
-    <td valign="top" width="140">🧩&nbsp;&nbsp;<b>Role</b></td>
+    <td valign="top" width="140"><b>Role</b></td>
     <td>
       <img src="https://img.shields.io/badge/Fullstack-F97316?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/Web3_Developer-F97316?style=flat-square&logoColor=white" />
@@ -26,7 +26,7 @@ Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
     </td>
   </tr>
   <tr>
-    <td valign="top">⛓️&nbsp;&nbsp;<b>Chains</b></td>
+    <td valign="top"><b>Chains</b></td>
     <td>
       <img src="https://img.shields.io/badge/Avalanche-E84142?style=flat-square&logo=avalanche&logoColor=white" />
       <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
@@ -38,7 +38,7 @@ Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
     </td>
   </tr>
   <tr>
-    <td valign="top">🛠️&nbsp;&nbsp;<b>Stack</b></td>
+    <td valign="top"><b>Stack</b></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -51,7 +51,7 @@ Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
     </td>
   </tr>
   <tr>
-    <td valign="top">🎨&nbsp;&nbsp;<b>Design</b></td>
+    <td valign="top"><b>Design</b></td>
     <td>
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
       <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
@@ -62,12 +62,12 @@ Frontend with Next.js + TypeScript, design in the Adobe suite and Figma.
     </td>
   </tr>
   <tr>
-    <td valign="top">🚀&nbsp;&nbsp;<b>Currently</b></td>
+    <td valign="top"><b>Currently</b></td>
     <td>
-      <img src="https://img.shields.io/badge/avalancheteam1-E84142?style=flat-square&logo=avalanche&logoColor=white" />
+      <img src="https://img.shields.io/badge/Avalanche_Team1-E84142?style=flat-square&logo=avalanche&logoColor=white" />
       <img src="https://img.shields.io/badge/gUUdscore-F97316?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/goatsino-F97316?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/pangolin-F97316?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/GOATsino-F97316?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pangolin-F97316?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
